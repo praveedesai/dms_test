@@ -1,0 +1,295 @@
+Company code
+Fiscal year
+Fiscal year variant
+Accounting document number
+Number of line item within accounting do
+R
+Amount in Second Local Currency with +/-
+Amount in Local Currency with +/- Signs
+Foreign currency amount with signs (+/-)
+Transaction Type
+Transaction Type for General Ledger
+Business Transaction Type
+Logical system for source documents
+Reference Organizational Unit
+Referece Document Line Item
+Goup of reference Document Line Items
+Indicator: Item is reversing another ite
+Indicator: Item is reversed
+Indicator: Truereversal (i.e cancellatio
+Reversal: Reverse Document Reference Org
+Reversal: Reverse Document Reference Doc
+Indicator: Item is settling r ransformin
+Indicator: Line item is settled or trans
+PrecedingDocument Reference Trasaction
+Preceding Document Reference Organizatio
+Preceding Document Reference Document Nu
+Balance Transaction Currency
+Freely Defined Currency 1
+CO Object Currency
+Unit Of Measure of valuation Quantity
+Additional Unit Of Measure 1
+Additional Unit Of Measure 2
+Additional Unit Of Measure 1.1
+Controlling area
+Profit Center
+Functional area
+Business area
+Segment for Segmental Reporting
+Sender Cost Center
+Partner profit center
+Partner Functional Area
+Trading partner business area of the bus
+Company ID of trading partner
+Partner Segment for Segmental Reporting
+Amount in Transaction Currency
+Amount in freely defined currency 1
+Fixed Amount In Global Currency
+Total Price Variance In Global Currency
+Fixed Price Variance In Global Currency
+Amount in CO Object Currency
+Inventory Value in Local Currency
+Inventory Value in Group Currency
+Inventory Value in Another Currency
+Alternative Inventory Value in Local Cur
+Alternative Inventory Value in Group Cur
+Alternative Inventory Value in Another C
+Moving Average Price In Local Currency
+Moving Average Price In Group Currency
+Moving Average Price In Another Currency
+Standard Price In Local Currency
+Standard Price In Group Currency
+Standard Price In Another Currency
+Alternative Value In Local Currency
+Alternative Value In Group Currency
+Alternative Value In Another Currency
+External Value In Local Currency
+External Value In Group Currency
+External Value In Another Currency
+Value at sales Price in local currency
+Inventory value at sales ice in local cu
+Quantity
+Fixed quantity
+Valuation quantity
+Fixed Valuation quantity
+Reference quantity
+Additional Quantity 1
+Additional Quantity 2
+Additional Quantity 3
+Credit/debit posting (C/D)
+Posting Period
+Fiscal Year Variant
+Period/year
+Posting Date in the Document
+Document Date
+Period (Entry View)
+Year (Entry View)
+Document type
+Assignment Number
+Posting key
+Document Status
+Item Category
+Transaction Key
+Suldge-specific Line Item TYPE
+Item Changed by Document Splitting
+User Name
+UTC Timeshamp in shortform
+Partner profit center for elimination of
+Type of origin object(EC-PCA)
+Type of a General Leder Account
+Chart of Accounts
+Alternative Account Number in Company Co
+Chart of Accounts According to Country L
+Document No. of the invoice to which the
+Fiscal Year of the Relevant Invoice for
+Line Item in the Relevant Invoice
+Follow-On Document Type
+Category of Reference Purchase Order
+Purchasing Document Number
+Item Number of Purchasing Document
+Sequential Number of Acount Assignment
+Item Text
+Sales order Number
+Item number in Sales Order
+Material
+Plant
+Account Number of Vendor or Creditor
+Customer number
+Account type
+Special G/L Iindicator
+Tax Code
+Short key for a house bank
+ID for account details
+Indicator: Open Item Management
+Clearing date
+Clearing Document Number
+Fiscal Yearof Clearing Document
+Depreciation Area Real or Derived
+Main Asset Number
+Asset Subnumber
+Asset Value Date
+Asse Transaction Type
+Transaction Type Category
+Posting Period of Depreciation
+Group Asset
+Subnumber of Group Asset
+Distribution Rule Group
+Cost Estimate Number for Cost Est w/o Qt
+Price control indicator
+Material price Determination Control
+Valuation of Special Stock
+Vendor stock Valuation Indicator
+Special Stock Indicator
+Valuation time stamp
+Sales document number of aluat special
+Sales Document tem Number of luated spec
+WBS Element (internal) of Valuated Speci
+WBS Element (external)of Valuated Specia
+Supplier  Valuated Special Inventory
+Valuation Type
+Valuation area
+Price Unit in Local Currency
+Price Unit in Group Currency
+Price Unit in Another Currency
+Original Process Category
+Category in Material Update Structure
+Procurement AlternativProcess
+Production Process
+Type of Period
+General Ledger Account in Sender System
+Account Assignment in Sender System
+Account Assignment Type in Sender System
+Object Number
+CO Key Subnumber
+Origin Group as Subdivision of Cost Elem
+Partner Object (Always Filled)
+Source of PAROB: PAROB or type f partner
+Source bject (Cost CenterActivity Type)
+CO Debit/Credit Indicator
+Debit Type
+Indicator: Quantity Is Incomplete
+Offsetting Account Number
+Offsetting Account Type
+Completion indicator for Line Item
+Personnel Number
+Profitability Segment Number (CO-PA)
+Object Class
+Logical System of Object
+Partner Company Number
+Partner Object Class
+Logical System of Partner Object
+Strategy or Determining an Allocation Pr
+Object Number of Origin Object
+Origin Order Number
+Origin Cost Center
+Origin Activity
+Account Assignment
+Object Type
+Activity Type
+Order Number
+Order Category
+Work Breakdown Structure Element (WBS El
+Network Number for  ccount Assignment
+Operation/Activity Number
+Business Process
+Cost Object
+Accounting Indicator
+Notification No
+Operating concern
+Partner Account Assignment
+Partner Object Type
+Partner Activity
+Partner Object Number
+Partner Order Category
+Partner work Breakdown Structure Element
+Partner Object
+Number of PartnerSales Order
+Partner Sales order Item
+Partner profitability segment number (CO
+Project definition
+Partner Object Network
+Partner Project Network Activity
+Partner Business Process
+Partner Cost Object
+Posting Row
+Billing Type
+Sales Organization
+Distribution Chanel
+Division
+Product for pofitability analysis
+Material Group
+Customer Group
+Dummy function in length
+Volume rebate group
+Form  manufactre
+Area
+Aircraft type
+Sales office
+Sales employee
+Main Material group
+Zone
+ABC Indicator
+Sales Office
+Sales Group
+Cash Ledger: Company code for Expense/Re
+Cash Ledger: Expense or Revenue Account
+Financial Management Area
+Fund
+Grant
+FM: Budget Period
+Partner Fund
+Partner Grant
+FM: Partner Budget Period
+Joint venture
+Quity group
+Recovery indicator
+Partner account number
+Payroll Type
+Equity type
+Production Month (Date to find period ea
+Business entity Number
+Number of building
+Number of land
+Number of Rental Object
+Contract Number
+Service Charge Key
+Settlemet Unit
+Reference Date for settlement
+Partner Business Entity Number
+Partner Building Number
+Partner Land Number
+Numbr of Partner Rental Unit
+Partner Conract Number
+Partner service charge key
+Partner Settlement unit
+Partner Reference Date for settlement
+Dummy function in length 1
+Source of a migated journal ntry item
+Item ID of migrated G/L Line item
+BW Delta Process: Reord Mode
+Client
+FIELD1
+Six-Character Posting Item for Ledger
+General Ledger Fiscal Year
+Document Item Number
+Document Number (General Ledger View)
+Ledger
+Record Type
+G/L Account
+Chart of accounts
+Currency Type
+Value Type for Reporting
+Business Transaction
+Reference Procedure
+Reference document number
+Version
+Currency Key for Transaction Currency
+Unit of Measure
+Cost Center
+Local currency
+Second Local Currency
+Third Local Currency
+Document currency
+Date on which the record was created
+Fiscal Year Variant (Entry View)
+Valuation view
