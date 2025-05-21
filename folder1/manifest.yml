@@ -1,0 +1,14 @@
+---
+applications:
+- name: Document_Manager 
+  random-route: true
+  path: ./
+  memory: 300M
+  buildpacks: 
+  - python_buildpack
+  command: uvicorn dms.main:app --host 0.0.0.0 --port $PORT
+  services:
+    - aicore    
+    - connectivity-service       
+    - odata-service
+    - xsuaa
